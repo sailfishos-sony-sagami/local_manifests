@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/sony/pdx215" name="LineageOS/android_device_sony_pdx215" revision="lineage-23.0" />
+  <project path="kernel/sony/sm8350" name="LineageOS/android_kernel_sony_sm8350" revision="lineage-23.0" />
+</manifest>
