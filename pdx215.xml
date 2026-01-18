@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/sony/pdx215" name="LineageOS/android_device_sony_pdx215" revision="lineage-23.0" />
-  <project path="kernel/sony/sm8350" name="LineageOS/android_kernel_sony_sm8350" revision="lineage-23.0" />
+  <project path="device/sony/pdx215" name="LineageOS/android_device_sony_pdx215" remmote="github" revision="lineage-23.0"/>
+  <project path="kernel/sony/sm8350" name="sailfishos-sony-sagami/android_kernel_sony_sm8350" revision="lineage-21" clone-depth="1"/>
+  <project path="device/sony/sm8350-common" name="LineageOS/android_device_sony_sm8350-common" revision="lineage-21"/>
+  <project path="hardware/sony" name="LineageOS/android_hardware_sony" revision="lineage-21"/>
+  
+  <!-- Vendor Repos -->
+  <project path="vendor/sony/pdx215" name="TheMuppets/proprietary_vendor_sony_pdx215" revision="lineage-21"/>
+  <project path="vendor/sony/sm8350-common" name="TheMuppets/proprietary_vendor_sony_sm8350-common" revision="lineage-21"/>
+  <project path="vendor/apn" name="LineageOS/android_vendor_apn" revision="main" />
 </manifest>
