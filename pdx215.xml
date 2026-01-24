@@ -4,9 +4,10 @@
   <project path="kernel/sony/sm8350" name="sailfishos-sony-sagami/android_kernel_sony_sm8350" revision="lineage-21" clone-depth="1"/>
   <project path="device/sony/sm8350-common" name="LineageOS/android_device_sony_sm8350-common" revision="lineage-21"/>
   <project path="hardware/sony" name="LineageOS/android_hardware_sony" revision="lineage-21"/>
-  
-  <!-- Vendor Repos -->
   <project path="vendor/sony/pdx215" name="TheMuppets/proprietary_vendor_sony_pdx215" revision="lineage-21"/>
   <project path="vendor/sony/sm8350-common" name="TheMuppets/proprietary_vendor_sony_sm8350-common" revision="lineage-21"/>
-  <project path="vendor/apn" name="LineageOS/android_vendor_apn" revision="main" />
+  <project path="vendor/apn" name="LineageOS/android_vendor_apn" revision="main"/>
+  <project path="rpm/" name="sailfishos-sony-sagami/droid-hal-pdx215" revision="master"/>
+  <project path="hybris/droid-configs" name="sailfishos-sony-sagami/droid-config-pdx215" revision="master"/>
+  <project path="hybris/droid-hal-version-hammerhead" name="sailfishos-sony-sagami/droid-hal-version-pdx215" revision="master"/>
 </manifest>
