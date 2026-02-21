@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="mer-hybris/hybris-boot"/>
   <project path="hybris/hybris-boot" name="sailfishos-sony-sagami/hybris-boot" revision="sagami" />
-  
+  <project path="hybris-patches" name="mer-hybris/hybris-patches" revision="hybris-21.0" />
   <project path="hybris/libhybris" name="libhybris/libhybris" revision="master" />
 </manifest>
