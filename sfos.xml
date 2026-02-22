@@ -3,4 +3,5 @@
   <project path="hybris/hybris-boot" name="sailfishos-sony-sagami/hybris-boot" revision="sagami" />
   <project path="hybris-patches" name="mer-hybris/hybris-patches" revision="hybris-21.0" />
   <project path="hybris/libhybris" name="libhybris/libhybris" revision="master" />
+  <project path="external/busybox" name="mer-hybris/android_external_busybox_prebuilt" revision="master" />
 </manifest>
