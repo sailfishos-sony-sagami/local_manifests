@@ -8,5 +8,5 @@
   <project path="vendor/sony/sm8350-common" name="TheMuppets/proprietary_vendor_sony_sm8350-common" revision="lineage-21"/>
   <project path="rpm/" name="sailfishos-sony-sagami/droid-hal-pdx215" revision="master"/>
   <project path="hybris/droid-configs" name="sailfishos-sony-sagami/droid-config-pdx215" revision="master"/>
-  <project path="hybris/droid-hal-version-hammerhead" name="sailfishos-sony-sagami/droid-hal-version-pdx215" revision="master"/>
+  <project path="hybris/droid-hal-version-pdx215" name="sailfishos-sony-sagami/droid-hal-version-pdx215" revision="master"/>
 </manifest>
