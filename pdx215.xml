@@ -9,4 +9,5 @@
   <project path="rpm/" name="sailfishos-sony-sagami/droid-hal-pdx215" revision="master"/>
   <project path="hybris/droid-configs" name="sailfishos-sony-sagami/droid-config-sony-sagami" revision="master"/>
   <project path="hybris/droid-hal-version-pdx215" name="sailfishos-sony-sagami/droid-hal-version-pdx215" revision="master"/>
+  <project path="vendor/apn" name="LineageOS/android_vendor_apn" revision="main" />
 </manifest>
